@@ -1,4 +1,4 @@
-***201901772 - DanieDaniel Reginaldo Dubón Rodríguez***
+***201901772 - Daniel Reginaldo Dubón Rodríguez***
 
 # 👨‍💻Tipos de Kernel y sus diferencias
 
