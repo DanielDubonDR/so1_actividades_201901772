@@ -19,7 +19,7 @@ fecha corresponde a la fecha del dia de ejecución del script
 #!/bin/bash
 
 # Pide el nombre de usuario de GitHub y lo almacena en la variable GITHUB_USER
-# OJO: Pare efectos del cronjob comoente las sigueintes dos lineas y descomente la tercera
+# OJO: Pare efectos del cronjob comente las sigueintes dos lineas y descomente la tercera
 echo "Introduce tu nombre de usuario de GitHub:"
 read GITHUB_USER
 # GITHUB_USER="DanielDubonDR"
@@ -46,13 +46,13 @@ echo $MESSAGE >> "/tmp/$FECHA/saludos.log"
 ```
 
 ## ✅ Log file
-<div align="center"><img src="./../sources/logScript.png" width="500"/></div>
+<div align="center"><img src="./../sources/logScript.png" width="900"/></div>
 
 ## ✅ Cronjob
 El script se encuentra en la ruta ``/tmp/script.sh``
 
 ### Configuración
-<div align="center"><img src="./../sources/cronconf.png" width="500"/></div>
+<div align="center"><img src="./../sources/cronconf.png" width="900"/></div>
 
 ### Logs de CRON
 <div align="center"><img src="./../sources/logcron.png"/></div>
