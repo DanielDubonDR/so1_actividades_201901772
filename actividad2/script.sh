@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Pide el nombre de usuario de GitHub y lo almacena en la variable GITHUB_USER
-# OJO: Pare efectos del cronjob comoente las sigueintes dos lineas y descomente la tercera
+# OJO: Pare efectos del cronjob comente las sigueintes dos lineas y descomente la tercera
 echo "Introduce tu nombre de usuario de GitHub:"
 read GITHUB_USER
 # GITHUB_USER="DanielDubonDR"
