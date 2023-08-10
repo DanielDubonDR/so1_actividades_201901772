@@ -211,3 +211,34 @@ ls -ld
 - ### Permisos del `archivo2` y `directorio1`
 <div align="center"><img src="./../sources/final2.png"/></div>
 
+# Reflexión
+
+### ¿Por qué es importante gestionar correctamente los usuarios y permisos en un sistema operativo?
+
+Una adecuada gestión de usuarios y permisos es esencial para garantizar la seguridad, la privacidad y el funcionamiento eficiente de un sistema operativo y sus recursos en entornos personales y empresariales.
+
+### ¿Qué otros comandos o técnicas conocen para gestionar permisos en Linux?
+
+- `chmod`: Cambia permisos de archivos y directorios en modo numérico (modo octal) o simbólico (u, g, o +, -, =, r, w, x).
+
+- `chown`: Cambia el propietario y grupo de un archivo o directorio.
+
+- `chgrp`: Cambia el grupo de un archivo o directorio.
+
+- `umask`: Define los permisos predeterminados para archivos nuevos.
+
+- `setfacl`: Configura permisos avanzados utilizando listas de control de acceso (ACL).
+
+- `getfacl`: Muestra permisos ACL para archivos y directorios.
+
+- `adduser`: Agrega un nuevo usuario.
+
+- `deluser`: Elimina un usuario.
+
+- `addgroup`: Agrega un nuevo grupo.
+
+- `delgroup`: Elimina un grupo.
+
+- `usermod`: Modifica las propiedades de un usuario.
+
+- `groupmod`: Modifica las propiedades de un grupo.
