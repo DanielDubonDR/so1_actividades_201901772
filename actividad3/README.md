@@ -57,6 +57,10 @@ sudo userdel usuario3
 - ### Eliminacion del `usuario3`
 <div align="center"><img src="./../sources/deluser3.png"/></div>
 
+- ### Consevación del directorio
+
+<div align="center"><img src="./../sources/carpetasusers.png"/></div>
+
 # 👨‍👩‍👧‍👦 Parte 2: Gestion de Grupos
 
 ## 2.1 Creación de Grupos:
