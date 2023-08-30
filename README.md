@@ -9,3 +9,5 @@ Nombre: Daniel Reginaldo Dubón Rodríguez
 
 - [`Actividad 1`](./actividad1/README.md)
 - [`Actividad 2`](./actividad2)
+- [`Actividad 3`](./actividad3)
+- [`Actividad 4`](./actividad4)
