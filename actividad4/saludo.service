@@ -1,0 +1,9 @@
+[Unit]
+Description=Service de un saludo con la fecha actual
+
+[Service]
+Type=simple
+ExecStart=/home/danieldubon/Documentos/saludo.sh
+
+[Install]
+WantedBy=multi-user.target
